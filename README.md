@@ -1,5 +1,5 @@
-## Bioinformatics R&D - Machine Learning Approaches on Single Cell RNA-Sequencing
----
+## Bioinformatics R&D: Machine Learning Approaches on Single Cell RNA-Sequencing
+
 Single-cell RNA sequencing (scRNA-seq) has become a transformative tool in understanding cellular heterogeneity. By measuring gene expression at the level of individual cells, scRNA-seq provides insights that bulk RNA-seq is incapable of, such as identification of rare or distinct cell types within a population. This capacity to capture transcriptional profiles at the single-cell level is crucial for understanding complex biological processes, including immune responses, cell differentiation, and disease mechanisms (Wolf et al., 2018). This study leverages machine learning (ML) approaches to annotate cell types within a scRNA-seq dataset from Peripheral Blood Mononuclear Cells (PBMCs).
 PBMCs represents a diverse group of blood cells that include essential immune system components such as T cells, B cell, natural killer (NK) cells, and monocytes. These cells perform a range of vital immune functions, from recognising and eliminating pathogens to triggering adaptive immune responses. The dataset used in this analysis comprises of 68,000 cells, containing 4 different cell-types, providing a robust sample for developing and testing ML models (Abdelaal et al., 2019). The aim is to accurately label the cell types using computational approaches,  addressing the limitations of manual annotations. 
 
